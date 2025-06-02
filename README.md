@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Haikal👋
 Hello, let me introduce myself, my name is Muhammad Haikal Al Macca, but my friends usually call me Haikal. I come from a beautiful area, namely Majalengka, a small town famous for its natural beauty such as Mount Ciremai. 😼
 
 # 📊 GitHub Stats:
