@@ -8,8 +8,3 @@ Hello, let me introduce myself, my name is Muhammad Haikal Al Macca, but my frie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mhaikalalmacca&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<img src="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/snake.svg" alt="Snake animation" />
-
-###
