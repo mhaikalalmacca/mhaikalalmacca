@@ -26,8 +26,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/snake.svg" alt="Snake animation" />
+</div>
 ###
 
 <div align="center">
