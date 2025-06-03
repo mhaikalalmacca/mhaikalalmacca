@@ -27,6 +27,12 @@
 ###
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/mhaikalalmacca/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/pacman-contribution-graph.svg">
