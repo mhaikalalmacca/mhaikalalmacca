@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Haikal and I'm a Web Developer</h2>
 
 ###
+<p align="left">Hello, let me introduce myself, my name is Muhammad Haikal Al Macca, but my friends usually call me Haikal. I come from a beautiful area, namely Majalengka, a small town famous for its natural beauty such as Mount Ciremai. Currently, I am studying at SMKN 1 Maja, specifically in the Software Engineering (RPL) department.</p>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhaikalalmacca/mhaikalalmacca/output/pacman-contribution-graph-dark.svg">
